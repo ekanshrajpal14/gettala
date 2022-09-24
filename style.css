@@ -1835,7 +1835,7 @@ input {
 
     #divline2 {
         width: 1px;
-        height: 40vh;
+        height: 40vh !important;
         position: absolute;
         top: 0;
         right: 35%;
@@ -2582,11 +2582,11 @@ input {
 
     #afc2 {
         width: 150px;
-        height: 130px;
+        height: 70px;
         /* background-color: rgb(40, 0, 0); */
         color: #d5cdc4;
         position: absolute;
-        bottom: -25%;
+        bottom: -18% !important;
         z-index: 99;
         right: 7%;
 
