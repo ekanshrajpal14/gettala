@@ -1577,18 +1577,18 @@ input {
         position: absolute;
         width: 57vh;
         top: 0%;
-        /* background: #000; */
+        background: #000;
         height: 50vh;
         left: 0%;
     }
 
     #page3 h2 {
         font-weight: 10;
-        margin: 0 19px;
+        /* margin: 0 19px; */
         /* padding-top: 10px; */
-        font-size: 8vw;
+        font-size: 5vw;
         color: #d5cdc4;
-        /* text-align: center; */
+        text-align: left;
 
     }
 
