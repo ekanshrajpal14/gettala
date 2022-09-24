@@ -1586,7 +1586,7 @@ input {
         font-weight: 10;
         /* margin: 0 19px; */
         /* padding-top: 10px; */
-        font-size: 5vw;
+        font-size: 5.3vw;
         color: #d5cdc4;
         text-align: left;
 
@@ -1835,7 +1835,7 @@ input {
 
     #divline2 {
         width: 1px;
-        height: 34vh;
+        height: 40vh;
         position: absolute;
         top: 0;
         right: 35%;
