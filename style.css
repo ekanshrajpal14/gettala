@@ -1561,7 +1561,7 @@ input {
 
     #page2 {
         width: 100vw;
-        height: 100vh;
+        height: 90vh;
         background-color: #232025;
     }
 
@@ -1569,7 +1569,7 @@ input {
         margin-top: -1px;
         width: 100vw;
         position: relative;
-        height: 100vh;
+        height: 50vh;
         background-color: #232025;
     }
 
