@@ -165,7 +165,7 @@ gsap.from("#available", {
         scroller: "#main",
         // markers:true,
         start: "top 80%",
-        end: "top 60%",
+        end: "top 70%",
         scrub: 2
 
     },
@@ -182,8 +182,8 @@ gsap.from(".mango", {
         trigger: ".mango",
         scroller: "#main",
         // markers:true,
-        start: "top 80%",
-        end: "top 30%",
+        start: "top 95%",
+        end: "top 70%",
         scrub: 2
 
     },
